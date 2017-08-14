@@ -1,5 +1,5 @@
 ## gentoo_installer
-一個自動化安裝gentoo的bash腳本。快開學了，開發的時間不多。目前上傳不了，應爲有幾個bug，不過應該快了|-_-|
+一個自動化安裝gentoo的bash腳本。快開學了，開發的時間不多。目前上傳不了，應爲有幾個bug，不過應該快了  || -_- ||
 
 
     地址:https://github.com/ArcturusGarminPurne/gentoo_installer/
