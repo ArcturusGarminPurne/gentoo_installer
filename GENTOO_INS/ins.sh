@@ -38,9 +38,8 @@
 
 
 function strtgntstllr() {
-	cd $(dirname ${BASH_SOURCE[0]})
-	cat sel
-	cd
+	cat $(dirname ${BASH_SOURCE[0]})/TLG/g_ilg
+	cd /
 	return
 }
 function chrtst() {
@@ -175,7 +174,7 @@ function gntmnt() {
 	mount $boot /mnt/gentoo/boot
 	return
 }
-##start here {*^~^*}
+##---------------start here {*^~^*}---------------##
 strtgntstllr
 initgnt
 gntmnt
