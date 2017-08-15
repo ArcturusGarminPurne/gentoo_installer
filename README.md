@@ -3,5 +3,5 @@
 
 
     地址:https://github.com/ArcturusGarminPurne/gentoo_installer/
-    
+    类似项目:https://github.com/YangMame/Gentoo-Installer
     **只支持amd64,用systemd或OpenRC都可以。配置內核可以用genkernel all,genkernel menuconfig all,menuconfig或者从网络下载配置,如果需要可以手動選擇配置。
